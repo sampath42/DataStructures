@@ -1,0 +1,11 @@
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\bin\Debug\netcoreapp2.0\CustomDictionary.deps.json
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\bin\Debug\netcoreapp2.0\CustomDictionary.runtimeconfig.json
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\bin\Debug\netcoreapp2.0\CustomDictionary.runtimeconfig.dev.json
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\bin\Debug\netcoreapp2.0\CustomDictionary.dll
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\bin\Debug\netcoreapp2.0\CustomDictionary.pdb
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.csprojResolveAssemblyReference.cache
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.csproj.CoreCompileInputs.cache
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.AssemblyInfoInputs.cache
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.AssemblyInfo.cs
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.dll
+E:\Bingi\Bingi\Learnings\DataStructures\CustomDictionary\obj\Debug\netcoreapp2.0\CustomDictionary.pdb
